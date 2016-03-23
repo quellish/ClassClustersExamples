@@ -1,3 +1,5 @@
+##Class Clusters: A Solution For Dealing With Change
+
 ###Change
 Every year new versions of iOS and MacOS become available with new APIs, changes to existing APIs, and a few bugs. With these changes comes the need to support two major releases at the same time - which can be an exercise in frustration. What was once clean code now has to support two different sets of functionality. An implementation that worked fine a few months ago may not now, and your application was written specifically for that implementation.
 
